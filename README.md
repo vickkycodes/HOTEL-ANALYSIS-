@@ -1,6 +1,6 @@
 # HOTEL-ANALYSIS-REPORT
 ## The Task
-### Analysing a dataset gotten from onyx data which contains booking details of 2 hotels which includes the
+* Analysing a dataset gotten from onyx data which contains booking details of 2 hotels which includes the
 * Lead time
 * Arrival date
 * Duration of stay
@@ -9,6 +9,8 @@
 * Country of customers 
 * Deposit type
 * Agent
+## Key Insights : 
+
 
 
 
