@@ -28,6 +28,7 @@
 
 ### Customers likely to cancel based on cancel rate
 ![customer type](https://github.com/vickkycodes/HOTEL-ANALYSIS-/assets/103611857/d8a080d5-e19f-447e-adf0-7410249ff687)
+
 Transcient customers who are looking to have a short stay or just stay a night have the highest cancel rate which could be because its mostly a last minute booking and they are not looking to stay for long so they could have a change of plans meanshile the group reservations have a really cancel rate which is very expected because they would have planned it out and most likley to stay longer maybe for a holiday.
 
 ### When do customers arrive?
