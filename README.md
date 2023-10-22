@@ -35,16 +35,10 @@
 ![customer segment](https://github.com/vickkycodes/HOTEL-ANALYSIS-/assets/103611857/92f19e15-beb7-4d7a-997a-a7b0c4efcaa0)
 ### In this time and age most people prefer to do all their bookings and plannnings online which makes sense that most customers come in through online travel agencies rather than offline travel agencies.
 
+## FINAL REPORT
+![IMG-20230901-WA0034](https://github.com/vickkycodes/HOTEL-ANALYSIS-/assets/103611857/ac0e8e8f-1771-4966-8e6a-d91a19144ca0)
 
 
 
-
-
-
-
-
-
-
-
-[here](https://app.powerbi.com/view?r=eyJrIjoiMDVkMWY2NzgtZTI5Zi00MTBjLThkMDUtYTY2ZmJhYWI4ZTgzIiwidCI6ImRjZjEzZWE4LWQ5YjUtNGQxNS05NDg4LTQ5ZWI1OTJmNGYzOSIsImMiOjh9)
+[Feel free to interact with the dashboard here](https://app.powerbi.com/view?r=eyJrIjoiMDVkMWY2NzgtZTI5Zi00MTBjLThkMDUtYTY2ZmJhYWI4ZTgzIiwidCI6ImRjZjEzZWE4LWQ5YjUtNGQxNS05NDg4LTQ5ZWI1OTJmNGYzOSIsImMiOjh9)
 
