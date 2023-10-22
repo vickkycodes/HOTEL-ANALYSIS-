@@ -48,5 +48,5 @@ In this time and age most people prefer to do all their bookings and plannnings 
 
 
 
-Feel free to interact with the dashboard[HERE](https://app.powerbi.com/view?r=eyJrIjoiMDVkMWY2NzgtZTI5Zi00MTBjLThkMDUtYTY2ZmJhYWI4ZTgzIiwidCI6ImRjZjEzZWE4LWQ5YjUtNGQxNS05NDg4LTQ5ZWI1OTJmNGYzOSIsImMiOjh9)
+Feel free to interact with the dashboard [HERE](https://app.powerbi.com/view?r=eyJrIjoiMDVkMWY2NzgtZTI5Zi00MTBjLThkMDUtYTY2ZmJhYWI4ZTgzIiwidCI6ImRjZjEzZWE4LWQ5YjUtNGQxNS05NDg4LTQ5ZWI1OTJmNGYzOSIsImMiOjh9)
 
