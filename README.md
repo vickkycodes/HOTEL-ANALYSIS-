@@ -1,6 +1,11 @@
 # HOTEL-ANALYSIS-REPORT
 ## The Task
-### Analysing a dataset gotten from onyx data which contains booking details of 2 hotels which includes the
+## Overview
+![IMG-20230901-WA0034](https://github.com/vickkycodes/HOTEL-ANALYSIS-/assets/103611857/ac0e8e8f-1771-4966-8e6a-d91a19144ca0)
+
+Feel free to interact with the dashboard [HERE](https://app.powerbi.com/view?r=eyJrIjoiMDVkMWY2NzgtZTI5Zi00MTBjLThkMDUtYTY2ZmJhYWI4ZTgzIiwidCI6ImRjZjEzZWE4LWQ5YjUtNGQxNS05NDg4LTQ5ZWI1OTJmNGYzOSIsImMiOjh9)
+
+### Analysing a hotel dataset gotten from onyx data which contains booking details of 2 hotels which includes the
 * Lead time
 * Arrival date
 * Duration of stay
@@ -43,10 +48,4 @@ It would appear that customer reception are really low during the christmas/new 
 
 In this time and age most people prefer to do all their bookings and plannnings online which makes sense that most customers come in through online travel agencies rather than offline travel agencies.
 
-## FINAL REPORT
-![IMG-20230901-WA0034](https://github.com/vickkycodes/HOTEL-ANALYSIS-/assets/103611857/ac0e8e8f-1771-4966-8e6a-d91a19144ca0)
-
-
-
-Feel free to interact with the dashboard [HERE](https://app.powerbi.com/view?r=eyJrIjoiMDVkMWY2NzgtZTI5Zi00MTBjLThkMDUtYTY2ZmJhYWI4ZTgzIiwidCI6ImRjZjEzZWE4LWQ5YjUtNGQxNS05NDg4LTQ5ZWI1OTJmNGYzOSIsImMiOjh9)
 
