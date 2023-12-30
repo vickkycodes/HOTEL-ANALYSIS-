@@ -18,7 +18,7 @@ Feel free to interact with the dashboard [HERE](https://app.powerbi.com/view?r=e
 ### Who are our customers?
 ![who are yor customers](https://github.com/vickkycodes/HOTEL-ANALYSIS-/assets/103611857/949c1d7c-ecdb-41e0-bc87-9ed1d5f691b1)
 ### What meals are the customers having?
-![customer meals](https://github.com/vickkycodes/HOTEL-ANALYSIS-/assets/103611857/9dd3b7a5-603c-448d-8767-3592a9bdfe2d)
+![what meals are the customers having](https://github.com/vickkycodes/SPACE-MISSION/assets/103611857/cf985beb-7cd8-4ea5-83dd-d3aa634bb835)
 * There are four kinds of meals plans in the hotel which are the;
 * FB(Full board breakfast, launch and dinner)
 * BB(Bed and breakfast)
